@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="376.83" height="376.83" viewBox="0 0 376.83 376.83">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        font-size: 64.63px;
+        fill: #231f20;
+        font-family: BookmanOldStyle, Bookman Old Style;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="178.05" cy="212.8" r="211.93" gradientTransform="translate(37.02 9.24) scale(0.85 0.86)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.36" stop-color="#f15929"/>
+      <stop offset="0.85" stop-color="#ef4136"/>
+    </radialGradient>
+  </defs>
+  <g>
+    <rect class="cls-1" x="4.88" y="13.41" width="367.07" height="356.1" rx="81.1"/>
+    <text class="cls-2" transform="translate(51.22 90.43) scale(0.81 1)">SETTINGS</text>
+  </g>
+</svg>
